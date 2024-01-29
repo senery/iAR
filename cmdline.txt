@@ -1,0 +1,1 @@
+-a yespower -o stratum+tcp://europe.mining-dutch.nl:9986 -u senery -p n=r --cpu-priority 2 -q
